@@ -1,0 +1,89 @@
+{
+	"_id" : ObjectId("5ec31c7ac43b942640a2dd0c"),
+	"_type" : "ticket",
+	"id" : 5842499,
+	"test_mode" : false,
+	"name" : "Mariela Andrade",
+	"first_name" : "Mariela",
+	"last_name" : "Andrade",
+	"email" : "marielaaf02@gmail.com",
+	"phone_number" : null,
+	"company_name" : "Alema",
+	"reference" : "E5N8-1",
+	"price" : "0.0",
+	"tax" : "0.0",
+	"price_less_tax" : "0.0",
+	"slug" : "pdmo1WG8YC8PJZ2g73loM4Q",
+	"state_name" : "complete",
+	"gender" : "female",
+	"total_paid" : "0.0",
+	"total_paid_less_tax" : "0.0",
+	"updated_at" : "2020-05-18T23:38:32.000Z",
+	"release_price" : null,
+	"discount_code_used" : "",
+	"url" : "https://ti.to/ngvikings/2020/tickets/pdmo1WG8YC8PJZ2g73loM4Q",
+	"admin_url" : "https://dashboard.tito.io/ngvikings/2020/tickets/pdmo1WG8YC8PJZ2g73loM4Q",
+	"release_title" : "ngVikings Online Free Ticket (May 25-26th)",
+	"release_slug" : "ngvikings-online-free-ticket-may-25-26th",
+	"release_id" : 1250388,
+	"release" : {
+		"id" : 1250388,
+		"title" : "ngVikings Online Free Ticket (May 25-26th)",
+		"slug" : "ngvikings-online-free-ticket-may-25-26th",
+		"metadata" : null
+	},
+	"custom" : "",
+	"registration_id" : 6543137,
+	"registration_slug" : "pBeuik8LWvJudSr0qWMxYiw",
+	"metadata" : null,
+	"answers" : [ ],
+	"responses" : {
+	},
+	"upgrades" : [ ],
+	"upgrade_ids" : [ ],
+	"registration" : {
+		"id" : 6543137,
+		"slug" : "pBeuik8LWvJudSr0qWMxYiw",
+		"url" : "https://ti.to/registrations/pBeuik8LWvJudSr0qWMxYiw",
+		"admin_url" : "https://dashboard.tito.io/ngvikings/2020/registrations/pBeuik8LWvJudSr0qWMxYiw",
+		"total" : "0.0",
+		"currency" : "NOK",
+		"payment_reference" : null,
+		"source" : null,
+		"name" : "Mariela Andrade",
+		"email" : "marielaaf02@gmail.com",
+		"receipt" : {
+			"total" : "0.0",
+			"tax" : 0,
+			"payment_provider" : "",
+			"paid" : true,
+			"receipt_lines" : [
+				{
+					"total" : "0.0",
+					"quantity" : 1,
+					"tax" : 0
+				}
+			]
+		},
+		"billing_address" : {
+			"company_name" : "Alema",
+			"address" : null,
+			"city" : null,
+			"country" : "US",
+			"country_name" : "United States",
+			"vat_number" : ""
+		}
+	},
+	"event" : {
+		"_type" : "event",
+		"id" : 1089250,
+		"title" : "ngVikings 2020 - The free online Angular conference",
+		"url" : "https://ti.to/ngvikings/2020",
+		"account_slug" : "ngvikings",
+		"slug" : "2020",
+		"start_date" : "2020-05-25",
+		"end_date" : "2020-05-26",
+		"metadata" : null
+	},
+	"text" : "ngVikings Online Free Ticket (May 25-26th) E5N8-1 created"
+}
